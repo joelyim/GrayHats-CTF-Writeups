@@ -26,7 +26,3 @@ GrayHats-CTF-Writeup/
     └── forensics/
         ├── challenge-1/
         └── challenge-2/
-```
-
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelyim1/)
